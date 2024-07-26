@@ -4,7 +4,7 @@ local MainButtonPosition = {0.654, 0 , 0.963, 0}
 local spaces = "          "
 
 local isMenuOpened = false
-local adminUsername = "epickidd911" -- Change to your actual username
+local adminUsername = "dhhdbdj3773" -- Change to your actual username
 
 local Players = game:GetService("Players")
 
